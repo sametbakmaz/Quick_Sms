@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c172fa7-d168-46fb-99fc-6cb333e8fbd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_XL_API_29" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="stateful_widget" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aS8JkPAccDkFKj7LjmDc2kcG2g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="device.file.explorer" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c172fa7-d168-46fb-99fc-6cb333e8fbd7" name="Default Changelist" comment="" />
+      <created>1586717564896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586717564896</updated>
+      <workItem from="1586717578503" duration="9900000" />
+      <workItem from="1586776156369" duration="2287000" />
+      <workItem from="1586780136783" duration="2181000" />
+      <workItem from="1586804602335" duration="9960000" />
+      <workItem from="1586826160512" duration="941000" />
+      <workItem from="1586866859800" duration="10061000" />
+      <workItem from="1586962031001" duration="172000" />
+      <workItem from="1586962220854" duration="76000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit2">
+      <created>1586817668859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586817668859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit3">
+      <created>1586893699608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586893699608</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2265" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1586720525313">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2265" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586720525313" />
+    <state x="2320" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586825842504">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2320" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586825842504" />
+    <state x="2224" y="0" key="CommitChangelistDialog2" timestamp="1586893698879">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2224" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586893698879" />
+    <state x="1940" y="70" width="1256" height="676" key="DiffContextDialog" timestamp="1586820817885">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="1940" y="70" width="1256" height="676" key="DiffContextDialog/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586820817885" />
+    <state x="2240" y="189" key="FileChooserDialogImpl" timestamp="1586729032049">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2240" y="189" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586729032049" />
+    <state width="1397" height="239" key="GridCell.Tab.0.bottom" timestamp="1586898708008">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586898708008" />
+    <state width="1397" height="239" key="GridCell.Tab.0.center" timestamp="1586898708008">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="239" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586898708008" />
+    <state width="1397" height="239" key="GridCell.Tab.0.left" timestamp="1586898708008">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="239" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586898708008" />
+    <state width="1397" height="239" key="GridCell.Tab.0.right" timestamp="1586898708008">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="239" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586898708008" />
+    <state x="1961" y="9" key="SettingsEditor" timestamp="1586866917996">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="1961" y="9" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586866917996" />
+    <state x="2017" y="105" width="886" height="659" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1586777525618">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2017" y="105" width="886" height="659" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586777525618" />
+    <state x="2336" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1586804602807">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2336" y="254" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586804602807" />
+    <state x="2449" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586817641239">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2449" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586817641239" />
+    <state x="2022" y="113" width="1235" height="657" key="new project wizard" timestamp="1586962281656">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2022" y="113" width="1235" height="657" key="new project wizard/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586962281656" />
+    <state x="2116" y="200" key="run.anything.popup" timestamp="1586726885983">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2116" y="200" key="run.anything.popup/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586726885983" />
+    <state x="2303" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1586777577964">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="2303" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1440.860@1920.0.1440.860" timestamp="1586777577964" />
+  </component>
+</project>
